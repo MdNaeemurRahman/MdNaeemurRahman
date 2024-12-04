@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I am a cybersecurity professional and graduate stu
 ## 🧑‍💻 About Me
 - 🔐 **Cybersecurity enthusiast** with expertise in ethical hacking, network security, and secure containerization.
 - 📊 Passionate about leveraging **AI/ML models** (e.g., LangChain, Llama) for enhanced cybersecurity solutions.
-- 🌱 Currently exploring **adversarial machine learning** and **data analytics** to understand emerging threats.
-- 🎓 M.Sc. in Cybersecurity, **University of Turku**, Finland | 🇫🇮 Finland Scholarship Awardee.
+- 🌱 Currently exploring **Cyber Security**, **AI/LLM** and **Data Analytics** to understand emerging threats.
+- 🎓 M.Sc. in Cybersecurity with a minor in Data Analytics/Data Science, **University of Turku**, Finland | 🇫🇮 Finland Scholarship Awardee.
 
 ---
 
@@ -63,5 +63,5 @@ _"In cybersecurity, every byte counts! 🌐"_
 ---
 
 ## 🗂️ Recent Activity
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=MdNaeemurRahman&theme=rogue)
+- Check my LinkedIn :)
 
