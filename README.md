@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Naeemur Rahman
 ### 🚀 Cybersecurity | AI Enthusiast | Researcher | Open-Source Contributor
 
-Welcome to my GitHub profile! I am a cybersecurity professional and graduate student with hands-on experience in **ethical hacking**, **AI/LLM applications in security**, and **network security**. My work focuses on applying cutting-edge technology to solve real-world problems in cybersecurity.
+I am a cybersecurity professional with hands-on experience in **ethical hacking**, **AI/LLM applications in security**, and **network security**. My work focuses on solving problems and applying technology to solve real-world problems in cybersecurity.
 
 ---
 
